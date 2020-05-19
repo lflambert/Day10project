@@ -67,4 +67,4 @@ def index():
     companies = companies, current_company = current_company)
 
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(port=3000, ...)
