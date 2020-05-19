@@ -4,7 +4,7 @@ from bokeh.plotting import figure,show
 from bokeh.resources import CDN
 from bokeh.embed import file_html, components
 
-app = Flask(__name__)
+stocktrial = Flask(__name__)
 
 companies = [ 'T', 'NFLX']
 
